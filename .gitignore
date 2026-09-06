@@ -1,0 +1,13 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+.vscode/
+
+# Compilados
+*.class
+.Rhistory
+.RData
+.Rproj.user/
